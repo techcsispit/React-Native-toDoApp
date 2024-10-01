@@ -35,7 +35,14 @@ This **To-Do App** is a simple, minimalistic application built with **React Nati
 - [ ] Smooth animations for transitions and task actions.
 
 ## Contributing
-Feel free to contribute to the project by adding new features or improving existing functionality.
+We welcome contributions to the project. Please feel free to submit bug fixes, improvements, and features via pull requests.
 
-## License
-This project is licensed under the MIT License.
+1. Creating an Issue: Before making any changes, create an issue explaining what you'd like to add or change and why
+2. Fork the repository.
+3. Create a new branch for your feature or bug fix.
+4. Commit your changes and push the branch.
+5. Submit a pull request.
+
+## Raising an Issue
+If you encounter any bugs or would like to request a feature, please create an issue on the repository with detailed steps to reproduce or a description of the feature request.
+
